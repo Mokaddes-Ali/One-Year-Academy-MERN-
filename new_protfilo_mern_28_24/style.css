@@ -8,7 +8,7 @@ a{
     text-decoration: none;
 }
 .container{
-    max-width: 1340px;
+    max-width: 1300px;
     margin: 0 auto;
   
 }
@@ -81,6 +81,7 @@ ul,ol{
 #navbar{
     color: #fff;
     padding: 25px 0px;
+  
 }
 .logo{
     display: flex;
